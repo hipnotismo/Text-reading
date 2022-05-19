@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\bin\Debug\netcoreapp3.1\Write_Input.exe
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\bin\Debug\netcoreapp3.1\Write_Input.deps.json
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\bin\Debug\netcoreapp3.1\Write_Input.runtimeconfig.json
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\bin\Debug\netcoreapp3.1\Write_Input.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\bin\Debug\netcoreapp3.1\Write_Input.dll
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\bin\Debug\netcoreapp3.1\Write_Input.pdb
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\obj\Debug\netcoreapp3.1\Write_Input.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\obj\Debug\netcoreapp3.1\Write_Input.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\obj\Debug\netcoreapp3.1\Write_Input.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\obj\Debug\netcoreapp3.1\Write_Input.dll
+C:\Users\Administrador\Desktop\Text-reading\Write_Input\Write_Input\obj\Debug\netcoreapp3.1\Write_Input.pdb

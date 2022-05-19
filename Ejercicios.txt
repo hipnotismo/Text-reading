@@ -1,0 +1,13 @@
+Ejercicios...
+
+1) Crear un archivo en un lenguaje (por ej C++) y leerlo en otro (C#)
+
+2) Crear una escena en Unity con un control de texto de UI y mostrar un texto cargándolo desde un archivo
+
+3) Crear un programa en consola en C# que permita asignar una posicion en el mundo (X, Y, Z). Leer en Unity el archivo e instanciar o mover un objeto a esa posición
+
+4) 
+
+A) Crear un programa en consola en C# que permita mover el cursor con las flechas y que al presionar espacio cree y dibuje en esa posición una X. Al presionar ESC el programa debe salir y escribir en un archivo todas las posiciones de las X.
+
+B) Unity debe leer el archivo y asignar un objeto/obstáculo en un mapa en las posiciones creadas en el editor de consola.
