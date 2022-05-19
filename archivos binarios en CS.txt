@@ -1,0 +1,25 @@
+static void WriteFile()
+        {
+            FileStream fs = File.OpenWrite("example.dat");
+
+            BinaryWriter bw = new BinaryWriter(fs);
+
+            bw.Write(2);
+            bw.Write(5.55);
+
+            bw.Close();
+            fs.Close();
+        }
+
+        static void ReadFile()
+        {
+            FileStream fs = File.OpenRead("example.dat");
+
+            BinaryReader br = new BinaryReader(fs);
+
+            Console.WriteLine(br.ReadInt32());
+            Console.WriteLine(br.ReadDouble());
+
+            br.Close();
+            fs.Close();
+        }

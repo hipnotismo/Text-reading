@@ -1,0 +1,26 @@
+Archivos de texto en C#
+
+static void WriteFile()
+        {
+            FileStream fs = File.OpenWrite("example.txt");
+
+            StreamWriter sw = new StreamWriter(fs);
+
+            sw.WriteLine("Hola");
+
+            sw.Close();
+            fs.Close();
+        }
+
+        static void ReadFile()
+        {
+            FileStream fs = File.OpenRead("example.txt");
+
+            StreamReader sr = new StreamReader(fs);
+
+            string texto = sr.ReadLine();
+            Console.WriteLine(texto);
+
+            sr.Close();
+            fs.Close();
+        }
